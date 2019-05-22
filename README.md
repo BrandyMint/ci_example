@@ -1,2 +1,7 @@
-# ci_example
-This is a example repository for CI integration
+# CI example
+
+[![Build Status](https://teamcity.brandymint.ru/app/rest/builds/aggregated/strob:(buildType:(id:CiExample_Master))/statusIcon.svg](https://teamcity.brandymint.ru/viewType.html?buildTypeId=CiExample_Master)
+
+This is an example repository for CI (teamcity) usage.
+
+It contains only `Makefile` that successfuly builds.
